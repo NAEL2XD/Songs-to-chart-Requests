@@ -22,4 +22,4 @@ To request a song, follow this step by step:
 
 ### Queue:
 
-Nothing is in the queue :(
+[Go here](https://github.com/users/NAEL2XD/projects/1)
