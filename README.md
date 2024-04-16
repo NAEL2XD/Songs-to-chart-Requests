@@ -13,7 +13,7 @@ You may request any songs that you want, even if it's spammy, or something you'd
 ### How to request a song?
 
 To request a song, follow this step by step:
-1. While you are here, click the "Issues" label or click [this](https://github.com/NAEL2XD/Songs-to-chart-Requests/issues/new)
+1. While you are here, click the "Issues" label or click [this](https://github.com/NAEL2XD/Songs-to-chart-Requests/issues/new/choose)
 2. While in the issues page, press "**New issue**"
 3. On the "New Issue" Tab, Make the title the song and the composer (or composer), Example: REVEALED by Archasia.
 4. On the description box, You can leave it as blank, or set the link, note that not setting links can be a different result than that.
