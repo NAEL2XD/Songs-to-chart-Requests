@@ -1,0 +1,10 @@
+name: Remove a song.
+description: Request to remove a song from NUSM.
+labels: [Song Removal Request]
+body:
+  - type: textarea
+    attributes:
+      label: Insert a song in the title that you want to remove, you need proof that it's you who made this song
+      description: [REQUIRED] You must show me proof that it's you, like send me an image if it's actually you who made this song, or else it'll be marked as [INVALID]
+    validations:
+      required: true
