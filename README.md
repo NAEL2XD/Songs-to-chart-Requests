@@ -20,6 +20,6 @@ To request a song, follow this step by step:
 5. If everything is filled, press the "**Submit new issue**" box, it should take you 5 second to create it.
 6. And you are done, now you can make as many as you want.
 
-### Queue:
+### Queue
 
 [Go here](https://github.com/users/NAEL2XD/projects/1)
