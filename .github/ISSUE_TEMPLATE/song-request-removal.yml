@@ -16,9 +16,11 @@ body:
     validations:
       required: false
       
-- type: checkboxes
+  - type: checkboxes
   id: required
   attributes:
+    label: 
+    description: 
     options:
-      - label: I am the owner of this song and want it removed.
-        required: false
+      - label: I am the owner of this song (must show proof)
+        required: true
