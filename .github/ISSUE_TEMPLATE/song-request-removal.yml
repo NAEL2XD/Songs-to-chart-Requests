@@ -1,0 +1,24 @@
+name: Song Removal Request.
+description: Want to remove a song in my mod? Click this!
+labels: [Song Removal Request]
+body:
+  - type: textarea
+    id: songname
+    attributes:
+      label: "Link/Name of the song"
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: "Explain why you want this song removed. Also make sure you own the song first!!"
+    validations:
+      required: false
+      
+- type: checkboxes
+  id: required
+  attributes:
+    options:
+      - label: I am the owner of this song and want it removed.
+        required: false
