@@ -8,7 +8,7 @@ body:
       label: "Link/Name of the song"
     validations:
       required: true
-
+      
   - type: textarea
     id: why
     attributes:
@@ -16,11 +16,12 @@ body:
     validations:
       required: false
       
-  - type: checkboxes
-  id: required
-  attributes:
-    label: 
-    description: 
-    options:
-      - label: I am the owner of this song (must show proof)
-        required: true
+  - type: dropdown
+    id: oclt
+    attributes:
+      label: "Do you own this song?"
+      options:
+        - "Yes (must show proof)"
+        - "No"
+    validations:
+      required: false
