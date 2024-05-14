@@ -2,10 +2,11 @@ name: Song Removal Request.
 description: Want to remove a song in my mod? Click this!
 labels: [Song Removal Request]
 body:
-  - type: textarea
+  - type: input
     id: songname
     attributes:
       label: "Link/Name of the song"
+      placeholder: "https://youtu.be/... | Cease (REMAKE)"
     validations:
       required: true
       
