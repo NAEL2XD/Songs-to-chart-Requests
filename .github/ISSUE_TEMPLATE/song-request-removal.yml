@@ -24,4 +24,4 @@ body:
         - "Yes (must show proof)"
         - "No"
     validations:
-      required: false
+      required: true
