@@ -2,9 +2,18 @@ name: Request a song.
 description: Request a song to the creator.
 labels: [Song Request]
 body:
-  - type: textarea
+  - type: input
+    id: songname
     attributes:
-      label: Insert the Song name in the title, then you can paste the link here, optional.
-      description: "For an example, you paste the link by doing CTRL+V, should look like this: https://youtu.be/wizLNzPE4t0?si=-I4FOgXeMcjTmf4f"
+      label: "Link to the song."
+      placeholder: "https://youtu.be/..."
+    validations:
+      required: true
+      
+  - type: input
+    id: songbpm
+    attributes:
+      label: "If you know the bpm of the song you've wanna request, input here! Make sure it's in numbers."
+      placeholder: "180"
     validations:
       required: false
