@@ -14,6 +14,7 @@ body:
     id: songbpm
     attributes:
       label: "If you know the bpm of the song you've wanna request, input here! Make sure it's in numbers."
+      description: "If the Base BPM isn't found, use this > https://www.beatsperminuteonline.com/"
       placeholder: "180"
     validations:
       required: false
