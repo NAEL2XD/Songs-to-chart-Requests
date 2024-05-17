@@ -6,6 +6,7 @@ body:
     id: songname
     attributes:
       label: "Link to the song."
+      description: "Find a song that you like, and input the link in this box."
       placeholder: "https://youtu.be/..."
     validations:
       required: true
