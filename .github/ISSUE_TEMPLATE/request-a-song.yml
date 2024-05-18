@@ -18,4 +18,13 @@ body:
       description: "If the Base BPM isn't found, use this > https://www.beatsperminuteonline.com/"
       placeholder: "180"
     validations:
+      required: true
+
+  - type: input
+    id: extras
+    attributes:
+      label: "Have any extra sprites? Send them here!"
+      description: "(You will be credited)"
+      placeholder: "https://drive.google.com/file/d/..."
+    validations:
       required: false
