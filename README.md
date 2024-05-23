@@ -8,6 +8,7 @@ You may request any songs that you want, even if it's spammy, or something you'd
 3. If there's only 1 part and it is a massive bpm or repeated part, i will not chart it.
 4. If the song is more than 10 minutes long, i will not chart it.
 5. If you spam the issue, there's 0.001% chance it'll get charted
+6. If the track notes is confusing, i won't chart it.
 
 ### How to request a song?
 
