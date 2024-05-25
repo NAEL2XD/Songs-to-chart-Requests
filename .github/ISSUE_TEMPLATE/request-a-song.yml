@@ -1,5 +1,5 @@
 name: 'Request a song.'
-description: "Request a song to be added in Nael\'s Ultimate spamming Mod'
+description: Request a song to be added in Nael\'s Ultimate spamming Mod
 labels: [Song Request]
 body:
   - type: input
