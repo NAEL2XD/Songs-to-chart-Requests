@@ -1,5 +1,5 @@
-name: Request a song.
-description: Request a song to the creator.
+name: 'Request a song.'
+description: "Request a song to be added in Nael\'s Ultimate spamming Mod'
 labels: [Song Request]
 body:
   - type: input
@@ -14,8 +14,8 @@ body:
   - type: input
     id: songbpm
     attributes:
-      label: "If you know the bpm of the song you've wanna request, input here! Make sure it's in numbers."
-      description: "If the Base BPM isn't found, use this > https://www.beatsperminuteonline.com/"
+      label: "BPM"
+      description: "There should be a BPM in the video! If the Base BPM isn't found, use this > https://www.beatsperminuteonline.com/"
       placeholder: "180"
     validations:
       required: true
@@ -23,8 +23,8 @@ body:
   - type: input
     id: extras
     attributes:
-      label: "Have any extra sprites? Send them here!"
-      description: "(You will be credited)"
+      label: "Extra Sprites"
+      description: "(You will be credited, unless you know who made the sprites.)"
       placeholder: "https://drive.google.com/file/d/..."
     validations:
       required: false
