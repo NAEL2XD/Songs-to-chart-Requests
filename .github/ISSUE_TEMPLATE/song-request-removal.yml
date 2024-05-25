@@ -22,7 +22,9 @@ body:
     id: own
     attributes:
       label: "Do you own this song?"
+      description: "If you set to Choose an option then it will be denied"
       options:
+        - "Choose an option."
         - "Yes (must show proof)"
         - "No"
     validations:
