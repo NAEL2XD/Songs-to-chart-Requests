@@ -6,7 +6,7 @@ You may request any songs that you want, even if it's spammy, or something you'd
 1. Give me the song name and the user that made the song (links is faster).
 2. If the original composer has their channel hidden/deleted, i will not chart that UNLESS you know who is the og user composer.
 3. If there's only 1 part and it is a massive bpm or repeated part, i will not chart it.
-4. If the song is more than 10 minutes long, i will not chart it.
+4. If the song is more than 10 minutes long, i will not chart it. (unless it is actually fun)
 5. If you spam the issue, there's 0.001% chance it'll get charted
 6. If the track notes is confusing, i won't chart it. (unless i have the flp and can [sniff](https://github.com/JordanSantiagoYT/SNIFF) it)
 
