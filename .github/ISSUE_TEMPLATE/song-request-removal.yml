@@ -14,7 +14,7 @@ body:
     id: why
     attributes:
       label: "Explain why you want this song removed."
-      placeholder: "Hi, [owner of the song] here, and i want you to remove my song in my mod please, thank you."
+      placeholder: "Hi, [owner of the song] here, and i want you to remove my song in your mod please, thank you."
     validations:
       required: false
       
