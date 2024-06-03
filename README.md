@@ -8,7 +8,7 @@ You may request any songs that you want, even if it's spammy, or something you'd
 3. If the song is more than 10 minutes long, i will not chart it. (unless it is actually fun)
 4. If you spam the issue, there's 0.001% chance it'll get charted
 5. If the track notes is confusing, i won't chart it. (unless i have the flp and can [sniff](https://github.com/JordanSantiagoYT/SNIFF) it)
-6. If the song is extremely loud [like this](https://youtu.be/SbMA-2u4JRg?si=aPji6Hc2LHXNfZEb&t=13), then there is no way i will chart that without my ear getting earbleeded.
+6. If the song is extremely loud [like this](https://youtu.be/mU8uIofYGXk), then there is no way i will chart that without my ear getting earbleeded.
 
 ### How to request a song?
 
