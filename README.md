@@ -5,10 +5,12 @@ You may request any songs that you want, even if it's spammy, or something you'd
 ### Rules
 1. If the original composer has their channel hidden/deleted, i will not chart that UNLESS you know who is the og user composer.
 2. If there's only 1 part and it is a massive bpm or repeated part, i will not chart it.
+   - basically if the song name is ίƤ卄卂ţ𝕙Ｉ 𝕪𝔼𝐍𝐠Ｏℕ𝐨 then it would not be accepted as it contains bassive bpm part (break parts does not count)
 3. If the song is more than 10 minutes long, i will not chart it. (unless it is actually fun)
 4. If you spam the issue, there's 0.001% chance it'll get charted
 5. If the track notes is confusing, i won't chart it. (unless i have the flp and can [sniff](https://github.com/JordanSantiagoYT/SNIFF) it)
 6. If the song is extremely loud [like this](https://youtu.be/mU8uIofYGXk), then there is no way i will chart that without my ear getting earbleeded.
+   - basically if the song name contains ear rape then i'm not allowing it
 
 ### How to request a song?
 
