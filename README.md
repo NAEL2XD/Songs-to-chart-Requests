@@ -32,6 +32,6 @@ To request a song, follow this step by step:
 
 # Queue
 
-This is where you can see progress on a song by clicking this hjyperlinked link.
+This is where you can see progress on a song by clicking this hyperlink below.
 [Go here to see what contains in the queue!](https://github.com/users/NAEL2XD/projects/1)
    - Note that sometimes the song that was uploaded and wasn't in the list might be me not knowing that it exists. Sorry!
