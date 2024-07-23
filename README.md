@@ -15,6 +15,7 @@ Here are the rules:
    - I can try but i don't even know how to.
 6. If the song is extremely loud [like this](https://youtu.be/mU8uIofYGXk), then there is no way i will chart that without my ear getting earbleeded.
    - basically if the song name contains ear rape then i'm not allowing it.
+   - this also applies for any loud hypertone things
 7. If the original composer refuses to make me chart the song, then i won't.
 8. DOUBLE Check if the song that you've requested was not charted before.
 
