@@ -28,3 +28,12 @@ body:
       placeholder: "https://drive.google.com/file/d/..."
     validations:
       required: false
+
+  - type: description
+    id: credits
+    attributes:
+      label: "Credits"
+      description: "(REQUIRED, if you say nothing for it then i'll look for them, else it'll be unknown!)"
+      placeholder: "Sprite by some dude, BG by me, etc."
+    validations:
+      required: true
