@@ -29,7 +29,7 @@ body:
     validations:
       required: false
 
-  - type: description
+  - type: input
     id: credits
     attributes:
       label: "Credits"
