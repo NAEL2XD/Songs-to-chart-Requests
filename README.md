@@ -1,3 +1,5 @@
+# canceled mod, no longer accepting requests
+
 # Welcome to nael2xd's github song request
 
 You may request any songs that you want, even if it's spammy, or something you'd like, it'll also be on my mod called [Nael's Ultimate Spamming Mod!](https://gamejolt.com/games/NUSM/886661)
