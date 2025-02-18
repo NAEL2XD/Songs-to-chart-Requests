@@ -2,7 +2,9 @@
 
 You may request any songs that you want, even if it's spammy, or something you'd like, it'll also be on my mod called Nael's Revamped Spamming Mod!
 
-# I don't allow songs that are shit ok thx.
+# Rules:
+1. Your request should be properly filled (include credits, bpms and such.)
+2. Songs that either has the vocals so quiet or is confusing will be rejected unless the flp is given.
 
 ### How to request a song?
 
