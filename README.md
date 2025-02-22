@@ -6,6 +6,7 @@ You may request any songs that you want, even if it's spammy, or something you'd
 1. Your request should be properly filled (include credits, bpms and such.)
 2. Songs that either has the vocals so quiet or is confusing will be rejected unless the flp is given.
    - FLMs are not allowed.
+3. If the Extra Sprites link is a Google Drive and is also locked, please add access to this email: naelsbusinessemaillol@gmail.com 
 
 ### How to request a song?
 
