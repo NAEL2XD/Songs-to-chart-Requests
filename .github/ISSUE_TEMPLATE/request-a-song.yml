@@ -37,3 +37,15 @@ body:
       placeholder: "Sprite by some dude, BG by me, etc."
     validations:
       required: true
+
+  - type: dropdown
+    id: rulecheck
+    attributes:
+      label: "Did you make sure your song follows the rules?"
+      description: "Please, make sure the song follows the rules. Or i'm going to close this."
+      options:
+        - "Choose an option."
+        - "Yes, i used it with my both eyes."
+        - "No, your rules sucks."
+    validations:
+      required: true
