@@ -10,6 +10,8 @@ You may request any songs that you want, even if it's spammy, or something you'd
 4. Songs that goes over 5 minutes is not allowed.
 5. Old songs especially if it's 2 years old is not allowed.
 
+Note: if you break too many rules, you will be added in the [banned users](https://github.com/NAEL2XD/Songs-to-chart-Requests/blob/main/banned-users.md) list, don't be like them and follow the rules.
+
 ### How to request a song?
 
 To request a song, follow this step by step:
